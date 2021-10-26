@@ -10,13 +10,6 @@ tune = "TUNE NAME"
 meter = "8.6.8.6"
 copyright = "&copyright; 2021 Publisher Company Ltd - All rights reserved"
 
-%% for hinariocentral.net use %%
-slug = "hymn-title"
-authorRef = "author-of-the-lyrics"
-year = "1855"
-tuneRef = "tune-name"
-hymnaryRef = "hymnary-name"
-
 %% aditional variables %%
 lyricsDistance = #2.5
 metronome = \tempo 4=100
