@@ -6,11 +6,6 @@ composer = "Composer Name, 1900"
 meter = "8.6.8.6"
 publicationYear = "2021"
 
-%% for hinariocentral.net use
-slug = "tune-name"
-composerRef = "composer-name"
-year = "1900"
-
 %% Aditional variables
 metronome = \tempo 4=100
 global = {
