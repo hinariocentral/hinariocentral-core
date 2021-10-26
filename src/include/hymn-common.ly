@@ -19,6 +19,7 @@
   composer = \composer
   meter = \meter
   poet = \author
+  translator = \translator
   tune = \tune
   copyright = \copyright
   tagline = \markup \with-url #"https://hinariocentral.net" {

@@ -12,12 +12,15 @@ bookTitleMarkup = \markup {
         " "
       }
       \fill-line {
-        \fromproperty #'header:poet
-        \fromproperty #'header:composer
+        \fontsize #-1 \fromproperty #'header:poet
+        \fontsize #-1 \fromproperty #'header:composer
+      }
+      \line {
+        \fontsize #-1 \fromproperty #'header:translator
       }
       \fill-line {
-        \fromproperty #'header:meter
-        \fromproperty #'header:tune
+        \fontsize #-1 \fromproperty #'header:meter
+        \fontsize #-1 \fromproperty #'header:tune
       }
     }
   }
