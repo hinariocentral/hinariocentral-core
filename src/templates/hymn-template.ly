@@ -14,13 +14,15 @@ copyright = "&copyright; 2021 Publisher Company Ltd - All rights reserved"
 %% aditional variables %%
 lyricsDistance = #2.5
 metronome = \tempo 4=100
+doubleSlurs = \set doubleSlurs = ##t
+noDoubleSlurs = \set doubleSlurs = ##f
 global = {
   \key c \major
   \time 4/4
   \numericTimeSignature
   \partial 4
   \set Staff.autoBeaming = ##f
-  \set doubleSlurs = ##t
+  \doubleSlurs
 }
 
 %%%%%%%%%%%
@@ -29,7 +31,6 @@ global = {
 
 soprano = \relative c'' {
   \global
-  \stemUp
   g4
 }
 
@@ -45,7 +46,6 @@ tenor = \relative c' {
 
 bass = \relative c {
   \global
-  \stemDown
   c4
 }
 
