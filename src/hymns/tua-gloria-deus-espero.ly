@@ -69,26 +69,38 @@ bass = \relative c {
 
 verseOne = \lyricmode {
   \set stanza = "1."
-  Tu -- a gló -- ria, Deus, es -- pe -- ro lá no céu, no céu!
-  Tu -- a sal -- va -- ção al -- me -- jo! Gui -- a -- nos, ó Deus, ó Deus!
-  Ao fim nos en -- con -- tra -- re -- mos lá no céu, no céu!
-  De Ti ne -- ces -- si -- ta -- re -- mos, pois nós so -- mos fi -- lhos Teus.
+  Tu -- a gló -- ria, Deus, es -- pe -- ro
+  Lá no céu, no céu!
+  Tu -- a sal -- va -- ção al -- me -- jo!
+  Gui -- a -- nos, ó Deus, ó Deus!
+  Ao fim nos en -- con -- tra -- re -- mos
+  Lá no céu, no céu!
+  De Ti ne -- ces -- si -- ta -- re -- mos,
+  Pois nós so -- mos fi -- lhos Teus.
 }
 
 verseTwo = \lyricmode {
   \set stanza = "2."
-  Tu és bom, ó Deus, sa -- be -- mos, ó Deus Pai, Deus Pai!
-  Nós já bem re -- co -- nhe -- ce -- mos que i -- gual a Ti não há!
-  Tu -- a fa -- ce nós ve -- re -- mos lá no céu, no céu!
-  Que~a -- le -- gri -- a sen -- ti -- re -- mos lá no céu con -- ti -- go,~ó Deus.
+  Tu és bom, ó Deus, sa -- be -- mos,
+  Ó Deus Pai, Deus Pai!
+  Nós já bem re -- co -- nhe -- ce -- mos
+  Que i -- gual a Ti não há!
+  Tu -- a fa -- ce nós ve -- re -- mos
+  Lá no céu, no céu!
+  Que~a -- le -- gri -- a sen -- ti -- re -- mos
+  Lá no céu con -- ti -- go,~ó Deus.
 }
 
 verseThree = \lyricmode {
   \set stanza = "3."
-  Dá -- nos for -- ças de~al -- can -- çar -- mos a man -- são de~a -- mor,
-  Pois na ter -- ra te -- mos far -- dos, lu -- tas, a -- fli -- ções e dor;
-  Mas sa -- be -- mos que~a vi -- tó -- ria Tu da -- rás, da -- rás,
-  Se, con -- ti -- go,~ó Deus da gló -- ria, for -- mos nes -- te mun -- do~an -- dar.
+  Dá -- nos for -- ças de~al -- can -- çar -- mos
+  A man -- são de~a -- mor,
+  Pois na ter -- ra te -- mos far -- dos,
+  Lu -- tas, a -- fli -- ções e dor;
+  Mas sa -- be -- mos que~a vi -- tó -- ria
+  Tu da -- rás, da -- rás,
+  Se, con -- ti -- go,~ó Deus da gló -- ria,
+  For -- mos nes -- te mun -- do~an -- dar.
 }
 
 verseFour = \lyricmode {
