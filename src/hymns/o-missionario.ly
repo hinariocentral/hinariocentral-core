@@ -72,7 +72,7 @@ verseOne = \lyricmode {
   E do~a -- fri -- ca -- no so -- lo
   A -- té ao Ca -- na -- dá,
   Por mui lon -- gín -- quas ter -- ras
-  Nós va -- mos, se pa -- vor,
+  Nós va -- mos, sem pa -- vor,
   Por va -- les e por ser -- ras,
   Pre -- gan -- do~o Sal -- va -- dor.
 }
