@@ -9,7 +9,7 @@ author = "Reginald Heber, 1819"
 translator = "Trad. Guilherme Luiz dos Santos Ferreira (1850-1934)"
 tune = "MISSIONARY HYMN"
 meter = "7.6.7.6.D."
-copyright = "&copyright; 2021 Publisher Company Ltd - All rights reserved"
+copyright = "&copyright; 2007 Junta de Educação Religiosa e Publicações - Todos os direitos reservados"
 
 %% aditional variables %%
 lyricsDistance = #1.5
